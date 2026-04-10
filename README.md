@@ -2,7 +2,7 @@
 
 **Student:** [Your Name]  
 **Course:** Data Mining  
-**Assignment:** M3 – Complete Implementation & Analytical Expansion
+**Assignment:** M3 – Complete Implementation
 
 ## Repository Contents
 
